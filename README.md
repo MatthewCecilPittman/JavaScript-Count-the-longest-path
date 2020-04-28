@@ -34,5 +34,5 @@ function longestFilePath(fileSystem) {
   return longest;
 }
 
-longestFilePath("dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext")
+longestFilePath("dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext"), 20]
 ```
